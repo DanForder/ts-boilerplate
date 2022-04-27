@@ -2,7 +2,7 @@
   "name": "test",
   "version": "1.0.0",
   "description": "example project that uses npm packages",
-  "homepage": "https://danforder.github.io/npm-test",
+  "homepage": "https://danforder.github.io/js-boilerplate",
   "private": true,
   "scripts": {
     "build": "webpack",
