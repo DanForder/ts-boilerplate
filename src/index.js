@@ -1,4 +1,4 @@
-import confetti from "./node_modules/canvas-confetti/dist/confetti.module.mjs";
+import confetti from "canvas-confetti";
 
 function randomInRange(min, max) {
   return Math.random() * (max - min) + min;
