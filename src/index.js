@@ -1,3 +1,4 @@
+import "./style.scss";
 import ColorThief from "colorthief";
 import confetti from "canvas-confetti";
 
