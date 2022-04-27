@@ -7,7 +7,7 @@ module.exports = {
   watch: true,
   output: {
     filename: "main.js",
-    path: path.resolve(__dirname, "dist"),
+    path: path.resolve(__dirname, "build"),
   },
   plugins: [
     new HtmlWebpackPlugin({
