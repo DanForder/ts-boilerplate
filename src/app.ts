@@ -1,3 +1,7 @@
 import "./style.scss";
 
-console.log("Welcome to JS compilers!");
+const welcome = () => {
+  console.log("Welcome to the TS Boilerplate!");
+};
+
+welcome();
