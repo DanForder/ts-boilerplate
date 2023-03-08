@@ -7,7 +7,7 @@
   "scripts": {
     "build": "webpack --config ./webpack.config.js",
     "build:dev": "webpack --config ./webpack.config.dev.js",
-    "server": "live-server build",
+    "server": "live-server build --port=3000",
     "start": "npm-run-all --parallel build:dev server"
   },
   "keywords": [],
